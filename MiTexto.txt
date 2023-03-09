@@ -1,0 +1,20 @@
+1.	¿Qué es Git? 
+Git es un codigo de sistemas donde se puede guardar, modificar o eliminar un archivo como tambien subirlo a GitHub
+2.	¿Qué es GitHub?
+GitHub es una interfas donde se suben los archivos que se subieron desde Git y ahí puedes ver los archivos como tambien compartirlos para que otros lo vean o que lo descarguen
+3.	Describe la funcionalidad de los siguientes comandos de GIT Bash:
+a.	Clone
+Es para copiar un archivo 
+b.	Status
+Es para ver el estado de los archivos, si es que estos fueron modificados o no
+c.	Diff
+Es para ver en que cambio el archivo y  ver la version anterior y como se modifico
+d.	Add
+Es para agregar los archivos a un paquete para subirlo a GitHub
+e.	Commit
+Es para comentar el paquete que añadimos antes con el add
+f.	Push
+Es para subir los archivos empaquetados a GitHub
+g.	merge
+h.	pull
+i.	fetch
